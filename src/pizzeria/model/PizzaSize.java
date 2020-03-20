@@ -11,7 +11,6 @@
 package pizzeria.model;
 
 /**
- *
  * @author danasebai
  */
 public enum PizzaSize {
